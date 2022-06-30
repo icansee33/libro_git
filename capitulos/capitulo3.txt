@@ -1,0 +1,5 @@
+Git permite la creación de ramas lo que permite tener distintas versones del
+mismo proyecto y trabajar de manera simultánea en ellas.
+Añadir los cambios a la zona de intercambio temporalGit permite la creación de ramas lo que permite tener distintas versiones del
+mismo proyecto y trabajar de manera simultánea en ellas.
+Añadir los cambios a la zona de intercambio temporalGit permite la cr
